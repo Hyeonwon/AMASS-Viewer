@@ -1,0 +1,12 @@
+# Unity 자동생성 폴더
+3rd_unity_amass/AMASS_Viewer/Library/
+3rd_unity_amass/AMASS_Viewer/Temp/
+3rd_unity_amass/AMASS_Viewer/Logs/
+3rd_unity_amass/AMASS_Viewer/obj/
+3rd_unity_amass/AMASS_Viewer/.vs/
+3rd_unity_amass/AMASS_Viewer/UserSettings/
+
+# Visual Studio 자동생성 파일
+3rd_unity_amass/AMASS_Viewer/*.sln
+3rd_unity_amass/AMASS_Viewer/*.csproj
+3rd_unity_amass/AMASS_Viewer/.vsconfig
