@@ -1,4 +1,10 @@
 # Unity 자동생성 폴더
+2nd_animation_test/Library/
+2nd_animation_test/Temp/
+2nd_animation_test/Logs/
+2nd_animation_test/obj/
+2nd_animation_test/.vs/
+2nd_animation_test/UserSettings/
 3rd_unity_amass/AMASS_Viewer/Library/
 3rd_unity_amass/AMASS_Viewer/Temp/
 3rd_unity_amass/AMASS_Viewer/Logs/
@@ -7,6 +13,8 @@
 3rd_unity_amass/AMASS_Viewer/UserSettings/
 
 # Visual Studio 자동생성 파일
+2nd_animation_test/*.sln
+2nd_animation_test/.vsconfig
 3rd_unity_amass/AMASS_Viewer/*.sln
 3rd_unity_amass/AMASS_Viewer/*.csproj
 3rd_unity_amass/AMASS_Viewer/.vsconfig
