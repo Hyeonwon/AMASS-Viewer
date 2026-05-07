@@ -29,6 +29,13 @@ Unity에서 AMASS 모션캡처 데이터를 읽고 시각화하는 프로젝트
 - AMASS 데이터 애니메이션 재생 구현 (mocap framerate 120fps 기준)
 - Z-up(AMASS) → Y-up(Unity) 좌표계 변환 처리
 
+### 5주차 (5/03 - 5/09)
+- MotionData / MotionList ScriptableObject 구조 설계
+- 파일 경로 하드코딩 → StreamingAssets 기반 동적 로드로 교체
+- 방향키로 모션 전환 + FK 상태 리셋 흐름 구현
+- 엣지 케이스 처리 (빈 파일, 파일 없음, 프레임 수 0)
+- 코드 수정 없이 모션 파일만 교체해도 동작하는 구조 완성
+
 ## 최종 목표
 - AMASS 데이터를 Unity에서 실시간 시각화
 - Play / Pause / 속도 조절 / 모션 선택 / 루프 재생 기능 구현
