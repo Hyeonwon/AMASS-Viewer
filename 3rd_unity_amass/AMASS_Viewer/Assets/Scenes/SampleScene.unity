@@ -148,6 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2ddc6e550a715d439c28b07f440845b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  motionList: {fileID: 11400000, guid: 569191fc64bd6714291f96656eebfa4d, type: 2}
 --- !u!4 &359880199
 Transform:
   m_ObjectHideFlags: 0
